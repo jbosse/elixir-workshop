@@ -1,9 +1,3 @@
-.vscode-body .pl-s,
-.vscode-body .pl-pds,
-.vscode-body .pl-s .pl-pse .pl-s1,
-.vscode-body .pl-sr,
-.vscode-body .pl-sr .pl-cce,
-.vscode-body .pl-sr .pl-sre,
-.vscode-body .pl-sr .pl-sra {
-  color: #fafbfc;
+.hljs-subst, .hljs-function, .hljs-title, .hljs-params, .hljs-formula {
+    color: #f13434;
 }
