@@ -5,3 +5,6 @@ I have fallen in love with Elixir. Mostly for pattern matching which we will get
 ## 01.md Objectives
 
 ## 02.md Installation
+
+
+https://www.freecodecamp.org/news/how-to-build-a-distributed-game-of-life-in-elixir-9152588100cd/
