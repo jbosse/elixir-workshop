@@ -1,8 +1,10 @@
-# Objectives
-* Types, Operators, and Control Flow
+# Overview
+* Types, Operators
 * Lists, Strings, Maps, Structs
+* Control Flow
 * Modules and Functions
-* Agents
-* GenServer
-* Supervision
-* ETS
+* Pattern Matching
+* Processes, Tasks
+* Agents, GenServers, ETS
+* Mix
+* Fun

@@ -1,4 +1,4 @@
-# Erlang Table Storage (ETS)
+# Erlang Term Storage (ETS)
 ```elixir
 iex> :ets.new(:my_table, [:named_table])
 :my_table
